@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "shopName": "Star Electronics",
+    "address": "23/A, New Market, Dhaka",
+    "phone": "+8801711001100",
+    "owner_name": "Mr. Rahman",
+    "opening_hours": "10:00 AM - 9:00 PM",
+    "category": "Electronics",
+    "description": "A trusted electronics shop offering a wide range of gadgets and home appliances."
+  },
+  {
+    "id": 2,
+    "shopName": "Mobile Zone",
+    "address": "45, Station Road, Chittagong",
+    "phone": "+8801711002200",
+    "owner_name": "Mrs. Khan",
+    "opening_hours": "9:00 AM - 10:00 PM",
+    "category": "Phone",
+    "description": "Latest smartphones, accessories, and repair services available."
+  },
+  {
+    "id": 3,
+    "shopName": "Cycle World",
+    "address": "12, Agrabad, Chittagong",
+    "phone": "+8801711003300",
+    "owner_name": "Mr. Alam",
+    "opening_hours": "10:00 AM - 8:00 PM",
+    "category": "Bicycle",
+    "description": "All kinds of bicycles, parts, and repair services."
+  },
+  {
+    "id": 4,
+    "shopName": "Tiles Gallery",
+    "address": "5, Mirpur Road, Dhaka",
+    "phone": "+8801711004400",
+    "owner_name": "Mr. Hossain",
+    "opening_hours": "10:30 AM - 8:30 PM",
+    "category": "Tiles",
+    "description": "Premium floor and wall tiles with modern designs."
+  },
+  {
+    "id": 5,
+    "shopName": "Electro Mart",
+    "address": "77, Station Road, Rajshahi",
+    "phone": "+8801711005500",
+    "owner_name": "Mrs. Nahar",
+    "opening_hours": "10:00 AM - 9:00 PM",
+    "category": "Electronics",
+    "description": "Electronic gadgets, home appliances, and repair services."
+  },
+  {
+    "id": 6,
+    "shopName": "Phone Planet",
+    "address": "10, College Road, Khulna",
+    "phone": "+8801711006600",
+    "owner_name": "Mr. Karim",
+    "opening_hours": "9:30 AM - 10:00 PM",
+    "category": "Phone",
+    "description": "Smartphones from top brands with accessories and servicing."
+  },
+  {
+    "id": 7,
+    "shopName": "Rider’s Choice",
+    "address": "22, Banani, Dhaka",
+    "phone": "+8801711007700",
+    "owner_name": "Mrs. Jahan",
+    "opening_hours": "8:30 AM - 9:00 PM",
+    "category": "Bicycle",
+    "description": "Mountain bikes, road bikes, and kids’ cycles at best prices."
+  },
+  {
+    "id": 8,
+    "shopName": "Royal Tiles",
+    "address": "88, University Road, Sylhet",
+    "phone": "+8801711008800",
+    "owner_name": "Mr. Ahsan",
+    "opening_hours": "9:00 AM - 9:00 PM",
+    "category": "Tiles",
+    "description": "High quality ceramic and porcelain tiles with unique patterns."
+  },
+  {
+    "id": 9,
+    "shopName": "Digital Hub",
+    "address": "15, Gausia Market, Dhaka",
+    "phone": "+8801711009900",
+    "owner_name": "Mr. Jewel",
+    "opening_hours": "10:00 AM - 8:00 PM",
+    "category": "Electronics",
+    "description": "One-stop shop for laptops, televisions, and electronic devices."
+  }
+]
